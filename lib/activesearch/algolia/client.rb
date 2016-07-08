@@ -1,5 +1,5 @@
 require "httparty"
-require "active_support/core_ext/object/to_json"
+require "active_support/core_ext/object/json"
 
 module ActiveSearch
   module Algolia
